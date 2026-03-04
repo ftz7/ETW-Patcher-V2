@@ -1,6 +1,6 @@
 # 🚀 ETW-Patcher V2: Evasion Toolkit (ETW/Sysmon)
 
-Bem-vindo ao **ETW-Patcher V2**! Esta é uma PoC (Proof of Concept) em C++ que utiliza a poderosa técnica de **WriteProcessMemory** para desativar ou verificar as funcionalidades de detecção mais comuns no Windows, inclusive Sysmon.
+Bem-vindo ao **ETW-Patcher V2**! Esta é uma PoC (Proof of Concept) em C++ que utiliza a poderosa técnica de **WriteProcessMemory** para desativar as funcionalidades de detecção mais comuns no Windows, inclusive Sysmon.
 
 Especificamente, ela visa:
 -   **ETW** (Event Tracing for Windows)
