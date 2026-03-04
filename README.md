@@ -22,7 +22,7 @@ Especificamente, ela visa:
 
 **Usuário do Discord: 4wj.**
 
-**Instagram: @glowwz9**
+**Instagram: @futurezada**
 
 **E-mail: vliyanie1337@proton.me**
 
