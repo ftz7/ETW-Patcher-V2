@@ -5,7 +5,7 @@ Bem-vindo ao **ETW-Patcher V2**! Esta é uma PoC (Proof of Concept) em C++ que u
 Especificamente, ela visa:
 -   **ETW** (Event Tracing for Windows)
 
-> ⚠️ **Disclaimer:** Esta ferramenta é estritamente para **fins de pesquisa** em segurança ofensiva e defesa. O uso em ambientes não autorizados é ilegal e antiético. Use com responsabilidade.
+> ⚠️ **Disclaimer:** Esta ferramenta é estritamente para **fins de pesquisa** em segurança ofensiva e defesa. O uso em ambientes não autorizados é ilegal e totalmente antiético. Use com responsabilidade.
 
 ---
 
